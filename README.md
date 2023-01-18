@@ -1,2 +1,2 @@
-# octo
-a test repo for learning git !
+#octo
+i edite this text

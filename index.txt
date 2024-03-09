@@ -1,7 +1,4 @@
-html --------
-php ------------
-css -----------
-.Net------
 C# unity 
 Game Dev 
 Unreal 5
+3D Shooter 
